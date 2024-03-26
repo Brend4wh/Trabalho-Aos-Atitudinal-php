@@ -1,0 +1,14 @@
+ Função(function) em PHP 
+
+<?php
+function numero($number){
+    if($number < 0){
+        echo "{$number} é Negativo";
+    } else {
+        echo "{$number} é Positivo";
+    } if($number == 0){
+        echo "{$number} é igual a 0";
+    }else{}
+}
+numero () //aqui podemos colocar qualquer numero
+?>
