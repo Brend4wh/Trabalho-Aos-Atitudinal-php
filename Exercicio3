@@ -1,0 +1,10 @@
+Array:
+
+<?php
+$fruta = ["Maça","Melao","Banana","Manga","Melancia"];
+
+for($i = 0; $i < count($fruta); $i++){
+    $fruta[$i];
+    echo " {$i} {$fruta[$i]} \n";
+}
+?>
