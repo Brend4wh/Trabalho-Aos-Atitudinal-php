@@ -10,5 +10,5 @@ function numero($number){
         echo "{$number} é igual a 0";
     }else{}
 }
-numero () //aqui podemos colocar qualquer numero (tanto negativo, quanto positivo)
+numero () //aqui podemos colocar qualquer numero (tanto negativo, quanto positivo, ou igual a 0)
 ?>
